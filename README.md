@@ -1,5 +1,5 @@
 # Elixir
-## Integrated Public Health Repository System for HTN'21
+## Integrated Public Health Repository System 
 
 ## History & Motivation
 The widespreads problems and issues present in Indian healthcare system which motivated us to develop **Elixir** are :    
